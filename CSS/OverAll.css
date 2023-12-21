@@ -1,0 +1,170 @@
+html,
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    cursor: url('../Assets/Cursor/Cursor2.png'), auto;
+}
+
+@font-face {
+    font-family: "monogramextended";
+    src: url('../Assets/Font/monogram-extended.ttf');
+}
+
+#TalkToAnimal {
+    z-index: 99;
+    position: absolute;
+    top: 29px;
+    left: 0px;
+}
+
+
+
+#TalkToAnimal>p {
+    overflow: hidden;
+    position: absolute;
+    top: 510px;
+    left: 640px;
+    right: 320px;
+    font-size: 30px;
+    font-family: 'monogramextended';
+}
+
+#ButtonE {
+    position: absolute;
+    top: 640px;
+    left: 1150px;
+}
+
+
+
+#Answer {
+    z-index: 100;
+    position: absolute;
+    top: 50px;
+}
+
+#Answer>textarea {
+    overflow: hidden;
+    position: absolute;
+    left: 581px;
+    top: 188px;
+    width: 394px;
+    padding-bottom: 330px;
+    background-color: transparent;
+    border: transparent;
+    resize: none;
+    border: none;
+    outline: none;
+    font-size: 40px;
+    font-family: 'monogramextended';
+}
+
+#OkButtonAnswer {
+    z-index: 99;
+    position: absolute;
+    left: 977px;
+    top: 557px;
+    cursor: url('../Assets/Cursor/Cursor.png'), pointer;
+}
+
+#Choice1 {
+    z-index: 100;
+    position: absolute;
+    top: 50px;
+    left: 270px;
+    text-align: center;
+    cursor: url('../Assets/Cursor/Cursor.png'), pointer;
+}
+
+#p1 {
+    z-index: 100;
+    text-align: center;
+    position: absolute;
+    left: 435px;
+    top: 180px;
+    font-size: 40px;
+    font-family: 'monogramextended';
+}
+
+#p2 {
+    z-index: 100;
+    position: absolute;
+    text-align: center;
+    left: 955px;
+    top: 180px;
+    font-size: 40px;
+    font-family: 'monogramextended';
+}
+
+#Start {
+    z-index: 99;
+    cursor: url('../Assets/Cursor/Cursor.png'), pointer;
+}
+
+#StartButton {
+    position: absolute;
+    top: 615px;
+    left: 655px;
+}
+
+#GirlButton {
+    position: absolute;
+    top: 275px;
+    left: 120px;
+}
+
+#ElfButton {
+    position: absolute;
+    top: 275px;
+    left: 675px;
+}
+
+#BoyButton {
+    position: absolute;
+    top: 275px;
+    left: 1249px;
+}
+
+#OkButton {
+    position: absolute;
+    top: 640px;
+    left: 1075px;
+}
+
+#YesOrNo {
+    z-index: 99;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#YesOrNo>p {
+    position: inherit;
+    position: inherit;
+    top: 250px;
+    left: 620px;
+    font-size: 40px;
+    font-family: 'monogramextended';
+}
+
+#NoButton {
+    z-index: 99;
+    position: absolute;
+    top: 560px;
+    left: 808px;
+    cursor: url('../Assets/Cursor/Cursor.png'), pointer;
+}
+
+#YesButton {
+    z-index: 99;
+    position: absolute;
+    top: 560px;
+    left: 580px;
+    cursor: url('../Assets/Cursor/Cursor.png'), pointer;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+}

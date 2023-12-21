@@ -1,0 +1,1 @@
+{"version":3,"file":"BringWaterToHedgehog.js","sourceRoot":"","sources":["../../src/lib/Quests/BringWaterToHedgehog.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,YAAY,CAAC;AAE/B,MAAM,CAAC,OAAO,OAAO,oBAAqB,SAAQ,KAAK;IACrD;QACE,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,OAAO,GAAG,KAAK,CAAC;QACrB,IAAI,CAAC,OAAO,GAAG,EAAE,CAAC;QAClB,IAAI,CAAC,QAAQ,GAAG,yBAAyB,CAAC;IAC5C,CAAC;CACF"}

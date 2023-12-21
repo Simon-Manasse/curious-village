@@ -1,0 +1,1 @@
+{"version":3,"file":"GoTalkToSquirel.js","sourceRoot":"","sources":["../../src/lib/Quests/GoTalkToSquirel.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,YAAY,CAAC;AAE/B,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,KAAK;IAC9C;QACE,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,OAAO,GAAG,KAAK,CAAC;QACrB,IAAI,CAAC,OAAO,GAAG,CAAC,CAAC;QACjB,IAAI,CAAC,QAAQ,GAAG,yBAAyB,CAAC;IAC5C,CAAC;CACF"}

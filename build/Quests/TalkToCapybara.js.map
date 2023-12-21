@@ -1,0 +1,1 @@
+{"version":3,"file":"TalkToCapybara.js","sourceRoot":"","sources":["../../src/lib/Quests/TalkToCapybara.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,YAAY,CAAC;AAE/B,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,KAAK;IAC/C;QACE,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,OAAO,GAAG,IAAI,CAAC;QACpB,IAAI,CAAC,OAAO,GAAG,CAAC,CAAC;QACjB,IAAI,CAAC,QAAQ,GAAG,kBAAkB,CAAC;IACrC,CAAC;CACF"}

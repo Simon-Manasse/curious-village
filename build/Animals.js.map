@@ -1,0 +1,1 @@
+{"version":3,"file":"Animals.js","sourceRoot":"","sources":["../src/lib/Animals.ts"],"names":[],"mappings":"AAAA,OAAO,UAAU,MAAM,iBAAiB,CAAC;AAEzC,MAAM,CAAC,OAAO,OAAgB,OAAQ,SAAQ,UAAU;IACtD,YAAmB,MAAc,EAAE,MAAc;QAC/C,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,IAAI,GAAG,MAAM,CAAC;QACnB,IAAI,CAAC,IAAI,GAAG,MAAM,CAAC;IACrB,CAAC;CACF"}

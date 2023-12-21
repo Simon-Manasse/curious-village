@@ -1,0 +1,1 @@
+{"version":3,"file":"BringsFishBack.js","sourceRoot":"","sources":["../../src/lib/Quests/BringsFishBack.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,YAAY,CAAC;AAE/B,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,KAAK;IAC9C;QACE,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,OAAO,GAAG,KAAK,CAAC;QACrB,IAAI,CAAC,OAAO,GAAG,CAAC,CAAC;QACjB,IAAI,CAAC,QAAQ,GAAG,mBAAmB,CAAC;IACtC,CAAC;CACF"}

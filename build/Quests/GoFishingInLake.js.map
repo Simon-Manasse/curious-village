@@ -1,0 +1,1 @@
+{"version":3,"file":"GoFishingInLake.js","sourceRoot":"","sources":["../../src/lib/Quests/GoFishingInLake.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,YAAY,CAAC;AAE/B,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,KAAK;IAChD;QACE,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,OAAO,GAAG,KAAK,CAAC;QACrB,IAAI,CAAC,OAAO,GAAG,CAAC,CAAC;QACjB,IAAI,CAAC,QAAQ,GAAG,wBAAwB,CAAC;IAC3C,CAAC;CACF"}

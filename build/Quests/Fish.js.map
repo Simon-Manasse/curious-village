@@ -1,0 +1,1 @@
+{"version":3,"file":"Fish.js","sourceRoot":"","sources":["../../src/lib/Quests/Fish.ts"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,gBAAgB,CAAC;AAEvC,MAAM,CAAC,OAAO,OAAO,IAAK,SAAQ,SAAS;IACzC,YAAmB,MAAc,EAAE,MAAc,EAAE,KAAa;QAC9D,KAAK,CAAC,MAAM,EAAE,MAAM,EAAE,KAAK,CAAC,CAAC;IAC/B,CAAC;CACF"}
